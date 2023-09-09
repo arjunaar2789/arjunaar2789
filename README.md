@@ -10,4 +10,4 @@ I am enthusiastic about about learning a new field which is developing right now
 - 🔭 I’m currently working on this page..
 - 🌱 I’m currently learning AI.
 - 📫 How to reach me: arjunaar2789 (Instagram)
-- 😄 Pronouns: He/him
+- 😄 Pronouns: He/him 
