@@ -7,10 +7,6 @@ Original file is located at
     https://colab.research.google.com/drive/1oAqr0T2aPXJI3FDo6RvquRt3EpK882vz
 """
 
-
-!pip install PyPDF2
-!pip install sentence_transformers
-
 import streamlit as st
 import PyPDF2
 from sklearn.feature_extraction.text import TfidfVectorizer
