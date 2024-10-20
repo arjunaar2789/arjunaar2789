@@ -14,8 +14,8 @@ from sentence_transformers import SentenceTransformer, util
 from transformers import pipeline
 
 # Load the summarizer and QA model
-summarizer = pipeline('summarization', model='facebook/bart-large-cnn', device=0)
-qa_model = pipeline('question-answering', model='deepset/roberta-base-squad2', device=0)
+summarizer = pipeline('summarization', model='facebook/bart-large-cnn')
+qa_model = pipeline('question-answering', model='deepset/roberta-base-squad2')
 
 # Initialize the SentenceTransformer model
 model = SentenceTransformer('paraphrase-MiniLM-L6-v2')
