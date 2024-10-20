@@ -8,7 +8,8 @@ Original file is located at
 """
 
 
-
+pip install PyPDF2
+pip install sentence_transformers
 
 import streamlit as st
 import PyPDF2
